@@ -1,0 +1,11 @@
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\bin\Debug\netcoreapp2.0\StoreManager.deps.json
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\bin\Debug\netcoreapp2.0\StoreManager.runtimeconfig.json
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\bin\Debug\netcoreapp2.0\StoreManager.runtimeconfig.dev.json
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\bin\Debug\netcoreapp2.0\StoreManager.dll
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\bin\Debug\netcoreapp2.0\StoreManager.pdb
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\obj\Debug\netcoreapp2.0\StoreManager.csprojAssemblyReference.cache
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\obj\Debug\netcoreapp2.0\StoreManager.csproj.CoreCompileInputs.cache
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\obj\Debug\netcoreapp2.0\StoreManager.AssemblyInfoInputs.cache
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\obj\Debug\netcoreapp2.0\StoreManager.AssemblyInfo.cs
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\obj\Debug\netcoreapp2.0\StoreManager.dll
+C:\Users\TVD1104\RiderProjects\StoreManager\StoreManager\obj\Debug\netcoreapp2.0\StoreManager.pdb
